@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32708961772-kdqgtlo38vtj98q3d741p3a8iuici6km.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32708961772-kdqgtlo38vtj98q3d741p3a8iuici6km</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALWSZWakW3VWTVY9HYzLNWry0wx5ZJpLQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32708961772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FU.SwiftUI-Firebase-Shoppinglist</string>
+	<key>PROJECT_ID</key>
+	<string>shoppinglist-swiftui-88809</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoppinglist-swiftui-88809.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32708961772:ios:4a8aa29f4132812b0d4cc9</string>
+</dict>
+</plist>
